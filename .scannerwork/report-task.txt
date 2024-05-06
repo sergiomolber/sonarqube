@@ -1,0 +1,6 @@
+projectKey=django-example
+serverUrl=http://localhost:9000
+serverVersion=9.8.0.63668
+dashboardUrl=http://localhost:9000/dashboard?id=django-example
+ceTaskId=AYWy1NhWq1aLVRQSo-uk
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYWy1NhWq1aLVRQSo-uk
